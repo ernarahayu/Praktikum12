@@ -41,4 +41,4 @@ print(txt.format(umur))
 ```
 
 # Output 
-![gambar](ss/Screenshot%20(85).png)
+![gambar](ss/Screenshot%20(86).png)
